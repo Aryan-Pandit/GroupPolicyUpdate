@@ -1,2 +1,5 @@
 # GroupPolicyUpdate
-GUI made from PySimpleGUI which is a Python library to create a GUI which runs various group policy update commands
+GUI made from PySimpleGUI to create a GUI which runs various group policy update commands.
+
+# Contributor
+Aryan Pandit
